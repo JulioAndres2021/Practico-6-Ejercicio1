@@ -1,0 +1,40 @@
+BODY {color:green }
+h1 {text-align: center;
+    color:red; 
+    font-size:20px;
+    font-family:Courier;
+    font-weight:bold;
+    font-style:italic;
+    line-height:30px;
+    letter-spacing:5px;
+    text-decoration:underline;
+    text-transform:capitalize;
+    text-indent:30px;
+    border-width:2px;
+    border-color:blue;
+    border-style:solid;
+   }
+   p.fant {font-family: fantasy;}
+   
+   
+    .btn1 {
+          background-color: white; 
+          color: black; 
+          border: 2px solid #008CBA;
+    }
+    /* Al poner el curso encima (hover) */
+    .btn1:hover {
+          background-color: #008CBA;
+          color: white;
+     }
+     .navbar {
+        background-color: #fff;
+        color: #555;
+        border-radius: 0;
+        position: fixed;
+        border: none;
+        padding: 0;
+        transition: none;
+        -webkit-box-shadow: 0 1px 10px -6px rgb(0 0 0 / 42%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 4px 5px -2px rgb(0 0 0 / 10%);
+        box-shadow: 0 1px 10px -6px rgb(0 0 0 / 42%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 4px 5px -2px rgb(0 0 0 / 10%);
+    }
